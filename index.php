@@ -13,7 +13,7 @@
 
 	<div class="container">
 
-        <img src="https://cdn-icons-png.flaticon.com/512/3135/3135755.png">
+        <img class="logo" src="https://cdn-icons-png.flaticon.com/512/3135/3135755.png">
 
 		<h1>SkillSwap</h1>
 
